@@ -34,6 +34,8 @@ It explores supermarket sales data through **visual insights** and builds a **pr
 
 ## 🧱 Project Structure
 
+---
+
 📁 supermarket-sales-dashboard
 ├── app.py # Streamlit app
 ├── sales_model.pkl # Trained model
@@ -41,6 +43,7 @@ It explores supermarket sales data through **visual insights** and builds a **pr
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
+---
 
 
 ---
